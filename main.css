@@ -1,0 +1,23 @@
+.card{
+    max-width: 100%;
+    text-align: center;
+    background-color: rgb(39, 37, 37);
+    width: 400px;
+    height: 500px;
+    border-radius: 20px;
+}
+.rank{
+    color: white;
+}
+.stars{
+    color: white;
+}
+.name{
+    color: white;
+}
+.details{
+    color: white;
+}
+.coin{
+    color: white;
+}
